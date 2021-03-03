@@ -1,2 +1,2 @@
-# Todo-Task
-this is my todo task using pure javascript
+# Counter
+this is my counting task using pure javascript
